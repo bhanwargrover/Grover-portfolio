@@ -233,7 +233,7 @@ const projects = [
      
     ],
     image:
-      "/assets/projects/srtuffglass.png",
+      "public/assets/projects/srtuffglass.png",
     source_code_link: "https://github.com/bhanwargrover/",
   
   },

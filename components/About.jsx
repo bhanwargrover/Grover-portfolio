@@ -30,12 +30,10 @@ function About() {
         <div>
           Hello! I&apos;m Bhanwar Grover, passionate and dedicated full-stack web developer currently learning and building projects with modern web technologies. My journey began with mastering the basics of HTML, CSS, and JavaScript, and I’ve been expanding my skills ever since.
 
-I'm currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js), along with Bootstrap for responsive design and Tailwind CSS for modern UI development. My goal is to create beautiful, user-friendly websites and applications that solve real-world problems. 
+          I&apos;m currently learning the MERN stack (MongoDB, Express.js, React.js, Node.js), along with Bootstrap for responsive design and Tailwind CSS for modern UI development. My goal is to create beautiful, user-friendly websites and applications that solve real-world problems. 
           <br className="sm:block hidden" />
           Let&apos;s collaborate to bring your ideas to life!
         </div>
-       
-          
       </motion.div>
     </section>
   );
